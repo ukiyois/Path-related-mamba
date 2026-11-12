@@ -1,0 +1,12 @@
+# name                 repository                                               commit
+VMamba                 https://github.com/MzeroMiko/VMamba.git                  2ed52ea
+PlainMamba             https://github.com/ChenhongyiYang/PlainMamba.git         0975a1d
+LocalMamba             https://github.com/hunto/LocalMamba.git                  75e5d1f
+EfficientVMamba        https://github.com/TerryPei/EfficientVMamba.git          0bc5ee2
+MSVMamba               https://github.com/YuHengsss/MSVMamba.git                c394019
+QuadMamba              https://github.com/VISION-SJTU/QuadMamba.git             720ecc3
+DefMamba               https://github.com/leiyeliu/DefMamba.git                 3088a34
+GrootVL                https://github.com/EasonXiao-888/GrootVL.git             0857f0a
+Mamba2D                https://github.com/cocoalex00/Mamba2D.git                ebfaaec
+2DMamba                https://github.com/AtlasAnalyticsLab/2DMamba.git         9fe12aa
+pathfinder             https://github.com/drewlinsley/pathfinder.git            7b53886

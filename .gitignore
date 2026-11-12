@@ -1,0 +1,16 @@
+# data, runs, results and weights never go into the repository
+/data/
+runs/
+/result/
+*.pt
+*.pth
+*.npz
+*.npy
+*.zip
+*.tgz
+*.tar
+__pycache__/
+*.pyc
+
+# third-party code is fetched by third_party/fetch_baselines.sh
+third_party/baselines/
